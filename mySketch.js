@@ -49,5 +49,5 @@ changeLightColor()
 }
 
 function changeLightColor(){
-	lightColor =color(random(['#f9e181', '#49ff5c']))
+	lightColor =color(random(['#FE4196', '#ffe97f']))
 }
